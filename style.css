@@ -1,0 +1,27 @@
+.jumbotron {
+  padding-top: 7rem;
+  background-color: coral;
+}
+
+#projects {
+  background-color: burlywood;
+}
+
+section {
+  padding-top: 0rem;
+}
+
+#contact {
+  padding-top: 3rem;
+}
+.nav-item :hover {
+  background-color: antiquewhite;
+  border-radius: 10px;
+  transition: 0.3s ease-in-out;
+  transition-delay: 0s;
+}
+
+.card :hover {
+  background-color: dimgray;
+  transform: rotate(2s);
+}
